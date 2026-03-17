@@ -1,3 +1,5 @@
 nginx
 mysql
 python:3.15-rc-slim
+apacherocketmq/rocketmq-dashboard:latest
+apache/rocketmq:5.4.0
